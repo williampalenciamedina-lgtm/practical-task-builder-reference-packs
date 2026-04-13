@@ -1,0 +1,10 @@
+﻿section_name,section_order,mandatory,applies_to_task_types,description,rules,adaptation_notes,example_hint,status
+Metadata,1,yes,ALL,Defines task identity,"Must include program, module, task type, level",Low adaptability,Include task code and identifiers,approved
+Description,2,yes,ALL,Defines task purpose,Must be action-based and clear,Medium adaptability,Start with action verb,approved
+Conditions & Time,3,yes,ALL,Defines environment and constraints,Include workshop/lab and supervision,Low adaptability,Include duration clearly,approved
+Tools & Equipment,4,yes,ALL,Defines required resources,Must match task type and realism,High adaptability,List tools clearly,approved
+Preparation,5,yes,ALL,Safety and readiness,Include warnings and setup checks,Varies by task type,Include PPE and checks,approved
+Procedure,6,yes,ALL,Core activity steps,Step-by-step instructions required,Highly adaptable,Include at least one instructor step (*),approved
+Close-up,7,yes,ALL,Restore and consolidate,Include debrief and cleanup,Low adaptability,Include safety restoration,approved
+Assessment,8,yes,ALL,Evaluate competencies,Map OBs to competencies,Medium adaptability,Use satisfactory/unsatisfactory,approved
+Sign-off,9,yes,ALL,Accountability,Include student and instructor,Low adaptability,Signature required,approved
