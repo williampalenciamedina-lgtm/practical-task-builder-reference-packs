@@ -1,0 +1,5 @@
+﻿item,value
+source_file,CBTA_Competency_Matrix_V3.xlsx
+cleaned_output,CBTA_Competency_Matrix_V3_Cleaned.xlsx
+rows_in_cleaned_reference,44
+transformation_notes,Split competency into code + domain; normalized learning levels and task types to semicolon-separated values; added default suitable_programs and status fields; preserved source wording.
